@@ -11,7 +11,7 @@ namespace OBBC_Vedligeholdelse
         DatabaseController databaseController = new DatabaseController();
         public bool ShowCurrentReports(int areaChoice)
         {
-            bool success = true;oo
+            bool success = true;oohhh
             Console.Clear();
             switch (areaChoice)
             {
